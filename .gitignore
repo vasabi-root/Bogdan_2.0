@@ -2,3 +2,5 @@
 config/keys.py
 .vscode
 .venv
+venv/
+.env

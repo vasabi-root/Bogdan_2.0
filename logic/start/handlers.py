@@ -4,4 +4,4 @@ from logic.start.callbacks import start, cancel
 
 
 start_handler = CommandHandler('start', start)
-cancel_handler = CommandHandler('cancel', start)
+cancel_handler = CommandHandler('cancel', cancel)

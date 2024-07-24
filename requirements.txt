@@ -22,3 +22,8 @@ SQLAlchemy==1.4.41
 tornado==6.2
 tzdata==2022.2
 tzlocal==4.2
+poe-api-wrapper
+git+https://github.com/kramcat/CharacterAI.git
+yandex-translater
+PyCAI2
+groq

@@ -1,4 +1,5 @@
 from enum import Enum
+from dotenv import load_dotenv
 
 def strike(text):
     result = ''
@@ -28,3 +29,4 @@ SET_CHANCE_TEXT = 'Теперь шанс моего высера равен '
 
 UNKNOWN_TEXT = 'Доигрался. Удаляю каталог `/etc`.'
 
+load_dotenv()
