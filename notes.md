@@ -1,0 +1,1 @@
+[Настройка группового чат-бота](https://docs.smartbotpro.ru/nachalo-raboty/kak-podklyuchit-messendzher/podklyuchenie-telegram/dobavlenie-bota-v-gruppovoi-chat-v-telegram)

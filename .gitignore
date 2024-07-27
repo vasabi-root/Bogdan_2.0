@@ -2,3 +2,4 @@
 config/keys.py
 .vscode
 .venv
+*test_async.py
